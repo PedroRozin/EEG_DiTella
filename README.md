@@ -1,5 +1,8 @@
 # EEG_DiTella
 
+##Autores: Ignacio Andersen y Pedro Rozín
+##
+
 Repositorio con todos los códigos hechos para Labo 6 y 7 en el Laboratorio de Neurociencia de Di Tella.
 EEG utilizado: Explore+ de Mentalab (https://mentalab.com/)
 
