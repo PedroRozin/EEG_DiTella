@@ -5,7 +5,7 @@ EEG utilizado: Explore+ de Mentalab (https://mentalab.com/)
 
 La interfaz al software más "visual" que ofrece Mentalab es una aplicación que se llama Explore Desktop (está en https://mentalab.com/eeg-software/). Lo que hicimos nosotros fue utilizar la interfaz en Python que no es tan visual, pero es más útil.
 
-En cada carpeta hay distintos experimentos o cosas básicas de como comunicarse con el EEG con Python.
+En cada carpeta hay distintos experimentos o cosas básicas de como comunicarse con el EEG con dicha interfaz.
 
 
 
