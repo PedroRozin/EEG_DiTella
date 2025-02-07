@@ -75,9 +75,6 @@ def butter_highpass_filter(data, cutoff, fs, order=3):
     y = filtfilt(b, a, data)
     return y
 
-import numpy as np
-import pandas as pd
-
 def remove_outliers(data, threshold=1.5):
     """
     Elimina outliers de una señal utilizando el rango intercuartil (IQR).
